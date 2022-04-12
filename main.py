@@ -7,7 +7,7 @@ print("Welcome to the Guessing game. Your objective is to guess the country You 
 
 def initialize_list():
     global words
-    with open('D:\\Python\\Games\\GuessingGame\\countries.txt', 'r') as file:
+    with open('countries.txt', 'r') as file:
         c = file.readlines()
         words = []
         for i in c:
