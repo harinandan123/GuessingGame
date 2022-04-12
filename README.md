@@ -1,5 +1,5 @@
 # GuessingGame
-A very simple python countries-guessing game
+A very simple python Country guessing game
 
 ## Built with
 
