@@ -10,7 +10,18 @@ A very simple python countries-guessing game
 Unfortunately, you cant run/play the game without installing python on your machine. You could install python on Windows 10 and also 11 by following [this video](https://www.youtube.com/watch?v=96OByGW3jpI) Python is default installed on most linux distros, if not open the Bash terminal in Linux and run:
 
 ```bash
-sudo apt install python3```
+sudo apt install python3
+```
+For installing python on mac, follow [this video](https://www.youtube.com/watch?v=kTNGi88XHjU)
 
-If
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is under the [MIT](https://choosealicense.com/licenses/mit/) license
+
+### Note
+
+I am working on a website to run the python code without installing anything!
+
 
