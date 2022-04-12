@@ -14,6 +14,12 @@ sudo apt install python3
 ```
 For installing python on mac, follow [this video](https://www.youtube.com/watch?v=kTNGi88XHjU)
 
+
+
+After all of that, save the countries.txt and the main.py file in the same directory/folder
+
+Then, click on the main.py file and watch it run!
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
